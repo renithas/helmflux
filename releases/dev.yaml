@@ -17,7 +17,7 @@ spec:
     replicaCount: 1
     ingress:
       host: mywebserver.dev.kubesandclouds.com
-    image: 
+    image:
       repository: renithas/testingapp
-      tag: v0.0.1
-      
+      tag: v0.0.2
+
