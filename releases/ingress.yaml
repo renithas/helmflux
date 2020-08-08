@@ -8,6 +8,6 @@ metadata:
 spec:
   releaseName: nginx-ingress
   chart:
-    git: git@github.com:mifonpe/helmflux
+    git: git@github.com:renithas/helmflux
     path: nginx-ingress
     ref: master
